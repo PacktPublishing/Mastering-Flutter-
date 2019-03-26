@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "658703334001",
+    "firebase_url": "https://e-commerce-a782b.firebaseio.com",
+    "project_id": "e-commerce-a782b",
+    "storage_bucket": "e-commerce-a782b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658703334001:android:d137c61a090f84e3",
+        "android_client_info": {
+          "package_name": "com.example.packt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658703334001-i7d5fcbj9l9hghanp6t85t2miv2knnkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH34iBFI8wUKCe2NbOUCDTLLmu7NrcHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658703334001:android:110884211651969e",
+        "android_client_info": {
+          "package_name": "com.example.packtecommercetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658703334001-i7d5fcbj9l9hghanp6t85t2miv2knnkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH34iBFI8wUKCe2NbOUCDTLLmu7NrcHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
